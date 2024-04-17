@@ -48,9 +48,9 @@ export default function Page() {
         </div>
       </div>
       {/* additional twcss */}
-      {/* <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent" /> */}
+      <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent" />
       {/* additional css */}
-      {/* <div className={styles.shape} /> */}
+      <div className={styles.shape} />
     </main>
   );
 }
